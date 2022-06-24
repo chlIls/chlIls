@@ -1,4 +1,4 @@
 
 ```console
-https://solo.to/relevancy
+https://solo.to/cls
 ```
